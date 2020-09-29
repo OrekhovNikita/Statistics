@@ -1,6 +1,6 @@
 # Credit Card Default Analysis
 
-## Extensive data analysis, Stats, Hypothesis Testing, Correlation
+## Extensive EDA, Stats, Hypothesis Testing, Correlation
 
 ![](https://img-a.udemycdn.com/course/480x270/260066_a43b_3.jpg)
 
